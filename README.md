@@ -59,15 +59,7 @@ Applied ISC2 CC principles to design a theoretical Identity and Access Managemen
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=smarikapudasaini13-del&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=smarikapudasaini13-del&theme=tokyonight&hide_border=true" width="48%" alt="Streak" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smarikapudasaini13-del&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Langs" />
-<img src="https://github-profile-trophy.vercel.app/?username=smarikapudasaini13-del&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10" width="48%" alt="Trophies" />
-
+<img src="https://github-readme-streak-stats.herokuapp.com?user=smarikapudasaini13-del&theme=tokyonight&hide_border=true" alt="Streak" />
 </div>
 
 ### 📈 Activity Graph
