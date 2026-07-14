@@ -70,7 +70,7 @@ Applied ISC2 CC principles to design a theoretical Identity and Access Managemen
 ### 📈 Activity Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=smarikapudasaini13-del&theme=tokyonight&hide_border=true&color=3399ff&line=3399ff" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=smarikapudasaini13-del&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </div>
 
 ---
