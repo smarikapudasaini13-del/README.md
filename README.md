@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # Smarika Pudasaini
@@ -58,7 +57,7 @@ Applied ISC2 CC principles to design a theoretical Identity and Access Managemen
 
 <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Stats" />
 <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="Streak" />
-<br>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
 <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true" alt="Trophies" />
 
@@ -71,4 +70,5 @@ Applied ISC2 CC principles to design a theoretical Identity and Access Managemen
 
 ---
 
-> *Note: Replace `YOUR_GITHUB_USERNAME` with your actual GitHub handle in all the links above to make the widgets work correctly.*
+> *Note: Replace `YOUR_GITHUB_USERNAME` with your actual GitHub handle in all the links above. The error messages you see occur because the placeholder `YOUR_GITHUB_USERNAME` is not a valid profile. Once you update the links with your real username, the widgets will populate automatically.*
+> 
