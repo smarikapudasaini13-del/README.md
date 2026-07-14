@@ -15,11 +15,13 @@
 ---
 
 ## 🛡️ About Me
+
 I am a 4th-semester Bachelor of Cybersecurity student at Texas College of Management and IT. I am highly enthusiastic about identifying and mitigating threats, constantly expanding my skills through hands-on lab work, research projects, and continuous learning.
 
 ---
 
 ## 🛠️ Technical Expertise
+
 <div align="center">
 <img src="https://skillicons.dev/icons?i=linux,kali,wireshark,cisco,windows" alt="Tech Stack" />
 </div>
@@ -32,12 +34,14 @@ I am a 4th-semester Bachelor of Cybersecurity student at Texas College of Manage
 ---
 
 ## 📜 Certifications
+
 *   **Certified in Cybersecurity (CC)** | ISC2 | Issued: Mar 2026
 *   **CCNA: Introduction to Networks** | Cisco | Issued: Jun 2025
 
 ---
 
 ## 🚀 Key Projects
+
 <details>
 <summary><b>Network Traffic Analysis & Protocol Verification (2025)</b></summary>
 <br>
@@ -53,22 +57,26 @@ Applied ISC2 CC principles to design a theoretical Identity and Access Managemen
 ---
 
 ## 📊 GitHub Analytics
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true" alt="Trophies" />
+<img src="https://github-readme-stats.vercel.app/api?username=smarikapudasaini13-del&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=smarikapudasaini13-del&theme=tokyonight&hide_border=true" alt="Streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smarikapudasaini13-del&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+<img src="https://github-profile-trophy.vercel.app/?username=smarikapudasaini13-del&theme=tokyonight&no-frame=true" alt="Trophies" />
 
 </div>
 
 ### 📈 Activity Graph
+
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&color=3399ff&line=3399ff" alt="Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=smarikapudasaini13-del&theme=tokyonight&hide_border=true&color=3399ff&line=3399ff" alt="Activity Graph" />
 </div>
 
 ---
 
-> *Note: Replace `YOUR_GITHUB_USERNAME` with your actual GitHub handle in all the links above. The error messages you see occur because the placeholder `YOUR_GITHUB_USERNAME` is not a valid profile. Once you update the links with your real username, the widgets will populate automatically.*
-> 
+<div align="center">
+
+`> connection secure. session active. thanks for stopping by.`
+
+</div>
